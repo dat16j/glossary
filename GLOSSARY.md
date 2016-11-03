@@ -1,4 +1,5 @@
 #Glossary
+
 ##Group 1
 A class is a template for creating different objects 
 which defines its properties and behaviors. 
@@ -107,3 +108,17 @@ For loop: An argument that allows to repeat an argument as many times as desired
 (OOAD) Object-oriented analysis and design - It is a technical approach for analyzing, designing an application, system, or business.
 
 (UML) Unified Modeling Language - It is a general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system
+
+## Group 6
+
+membership card:
+a physical plastic card used by a person to acces the facilities of the companies and store information and balance.
+
+user:
+consumer using the facilities and offers from a company
+
+balance:
+is the consumers amount of money he has on his account
+
+database:
+a system that contains all the information from different consumers and their statistics.
