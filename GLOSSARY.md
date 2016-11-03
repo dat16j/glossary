@@ -1,4 +1,5 @@
 #Glossary
+#Group 1
 A class is a template for creating different objects 
 which defines its properties and behaviors. 
 It can contain fields and methods to describe the behavior of an object.
@@ -14,6 +15,7 @@ SWOT Analysis, which stands for strengths, weaknesses, opportunities and threats
 is an analytical framework that can help your company face its greatest 
 challenges and find its most promising new markets.
 
+#Group 2
 Artefacts - Artefacts are produced by people involved in a project. These artefacts are everything that is used to convey information to the other people involved in the project such as diagrams, models ect.
 
 Use case - Use cases are descriptions of objectives that can be done with the program and describes the process of obtaining this objective.
