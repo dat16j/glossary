@@ -1,5 +1,5 @@
 #Glossary
-#Group 1
+##Group 1
 A class is a template for creating different objects 
 which defines its properties and behaviors. 
 It can contain fields and methods to describe the behavior of an object.
@@ -15,7 +15,7 @@ SWOT Analysis, which stands for strengths, weaknesses, opportunities and threats
 is an analytical framework that can help your company face its greatest 
 challenges and find its most promising new markets.
 
-#Group 2
+##Group 2
 Artefacts - Artefacts are produced by people involved in a project. These artefacts are everything that is used to convey information to the other people involved in the project such as diagrams, models ect.
 
 Use case - Use cases are descriptions of objectives that can be done with the program and describes the process of obtaining this objective.
@@ -86,3 +86,24 @@ a special area of automatic programming, covering research from artificial
 intelligence and programming, which addresses learning of typically declarative 
 (logic or functional) and often recursive programs from incomplete specifications, 
 such as input/output examples or constraints.
+
+## Group 5
+Domain model - A domain model is a description of things in the real world which is used as a starting point in programming.
+
+Method - A method is a set of code which is referred to by name and can be called (invoked) at any point in a program simply by utilizing the method's name.
+
+Membership card - A physical plastic card used by a person to acces the facilities of the companies and store information and balance.
+
+User - consumer using the facilities and offers from a company.
+
+Balance: - is the consumers amount of money he has on his account.
+
+Database - a system that contains all the information from different consumers and their statistics.
+
+Use Case Diagram:   Digaram that shows how objects/actors interact within a system or one another through multiple different 
+
+For loop: An argument that allows to repeat an argument as many times as desired.
+
+(OOAD) Object-oriented analysis and design - It is a technical approach for analyzing, designing an application, system, or business.
+
+(UML) Unified Modeling Language - It is a general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system
